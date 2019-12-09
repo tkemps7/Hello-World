@@ -1,5 +1,3 @@
 # tkemps
 
-![git commits](https://source.unsplash.com/random/800x600/git_commit.png)
-
-photos from [random](https://source.unsplash.com/random/800x600)
+![mountain](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi0nqWIqqHmAhUywFkKHZsRAswQjRx6BAgBEAQ&url=https%3A%2F%2Fcosmosmagazine.com%2Fgeoscience%2Fmountains-taller-than-the-himalayas-found-660-kilometres-underground&psig=AOvVaw13rOqLEdO4vwPOdxvzd8Ll&ust=1575732200717374)
